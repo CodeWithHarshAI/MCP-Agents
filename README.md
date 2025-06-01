@@ -6,19 +6,19 @@ MCP Agents is an AI-powered interactive browser assistant built with **Streamlit
 
 ## 🚀 Features
 
-🔹 **Talk to the Web** — Interact with websites using simple English commands
-🔹 **Visual Automation** — Take screenshots, click elements, and scroll pages effortlessly
-🔹 **Flexible Agent System** — Powered by the modular MCP Agent framework
-🔹 **Secure Integration** — API keys stored safely with optional secrets config
-🔹 **Fully Interactive UI** — See command results directly in the app interface
+* **Talk to the Web** — Interact with websites using simple English commands
+* **Visual Automation** — Take screenshots, click elements, and scroll pages effortlessly
+* **Flexible Agent System** — Powered by the modular MCP Agent framework
+* **Secure Integration** — API keys stored safely with optional secrets config
+* **Fully Interactive UI** — See command results directly in the app interface
 
 ---
 
 ## 🎯 Use Cases
 
-💼 Product scraping, news summarization, automated browsing workflows
-🧪 Educational bots that walk through websites
-📰 Daily content extraction from dynamic pages
+* 💼 Product scraping, news summarization, automated browsing workflows
+* 🧪 Educational bots that walk through websites
+* 📰 Daily content extraction from dynamic pages
 
 ---
 
@@ -105,3 +105,4 @@ Powered by the open agent framework from MCP and inspired by LastMileAI tooling.
 ---
 
 👨‍💻 Want to build your own AI-powered automation agent? **Fork this repo and start customizing!**
+
